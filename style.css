@@ -1,0 +1,14 @@
+html{
+    background-color: black;
+    font-family: Helvetica, sans-serif;
+    color: seashell;
+    opacity: 0.9;
+    font-size: 22px;
+    text-align: center;
+}
+
+#navContainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
